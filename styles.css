@@ -25,7 +25,14 @@
   }
   .dust {
     position: absolute;
+    
   }
   img {
     height:50vh;
+    
+  }
+
+  canvas{
+    width:68vw;
+    height: 65vh;
   }
